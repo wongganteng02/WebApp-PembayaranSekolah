@@ -1,0 +1,6 @@
+.DS_Store
+Thumbs.db
+# jangan unggah database berisi data asli
+DATABASE-TAGIHAN-SD.xlsx
+*.xlsx
+!DATABASE-TAGIHAN-SD-TEMPLATE.xlsx
